@@ -52,6 +52,7 @@ All my repositories are **educational projects**, but they are fully public and 
 - I’m exploring different areas of frontend development
 - Interested in UI, layout, and interactive interfaces
 - I enjoy learning by building and experimenting
+- Naruto is my favorite anime
 
 ---
 
