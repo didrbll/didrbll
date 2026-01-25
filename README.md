@@ -1,11 +1,11 @@
 ## Hi, I'm Katya 👋
 
-I'm a beginner **Frontend Developer** currently learning and building projects with modern web technologies.
+I'm a **Frontend Developer** currently learning and building projects with modern web technologies.
 
 🎓 I have a Bachelor's degree from **RSUH (Russian State University for the Humanities)**  
 in *Intelligent Systems in the Humanitarian Field*  
 📍 Self-taught frontend developer  
-🚀 Open to **junior positions or internships**
+🚀 Open to **junior positions** or internships
 
 ---
 
